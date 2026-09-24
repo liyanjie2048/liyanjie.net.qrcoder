@@ -1,0 +1,29 @@
+/* /Layout/MainLayout.razor.rz.scp.css */
+.wrapper[b-7gb1sqsi0r] {
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+}
+/* /Pages/Home.razor.rz.scp.css */
+.sample[b-u76qqotm55] {
+    width: 30px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.sample > div[b-u76qqotm55] {
+    box-sizing: border-box;
+    height: 30px;
+}
+
+.sample > div:empty[b-u76qqotm55] {
+    border: 1px dashed #ccc;
+    background: #f0f0f0;
+}
+
+.sample > div.shadow[b-u76qqotm55] {
+    box-shadow: #f00 0 0 2px 1px !important;
+}
+
+.form-control-color[b-u76qqotm55] {
+    width: 100%;
+}
