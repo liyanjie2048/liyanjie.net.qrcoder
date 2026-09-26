@@ -1,29 +1,29 @@
 /* /Layout/MainLayout.razor.rz.scp.css */
-.wrapper[b-7gb1sqsi0r] {
+.wrapper[b-cz3cnwtfe9] {
     padding-top: env(safe-area-inset-top);
     padding-bottom: env(safe-area-inset-bottom);
 }
 /* /Pages/Home.razor.rz.scp.css */
-.sample[b-u76qqotm55] {
+.sample[b-9rvnt8no4j] {
     width: 30px;
     text-align: center;
     font-size: 12px;
 }
 
-.sample > div[b-u76qqotm55] {
+.sample > div[b-9rvnt8no4j] {
     box-sizing: border-box;
     height: 30px;
 }
 
-.sample > div:empty[b-u76qqotm55] {
+.sample > div:empty[b-9rvnt8no4j] {
     border: 1px dashed #ccc;
     background: #f0f0f0;
 }
 
-.sample > div.shadow[b-u76qqotm55] {
+.sample > div.shadow[b-9rvnt8no4j] {
     box-shadow: #f00 0 0 2px 1px !important;
 }
 
-.form-control-color[b-u76qqotm55] {
+.form-control-color[b-9rvnt8no4j] {
     width: 100%;
 }
